@@ -1,0 +1,7 @@
+You need the following folder 1 level above the project folder:
+CC3100
+driverlib
+inc
+utils
+
+All 4 folders are found in ValvanoWare
