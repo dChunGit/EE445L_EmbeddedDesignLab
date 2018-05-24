@@ -1,0 +1,3 @@
+[submodule "EE445L_CoinIt"]
+	path = EE445L_CoinIt
+	url = https://github.com/dChunGit/EE445L_CoinIt.git
